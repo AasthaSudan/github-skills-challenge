@@ -32,3 +32,5 @@ jobs:
           PYTHONPATH=. python -m pytest -vv \
             --cov=src \
             --cov-report=term-missing
+
+# Workflow verification
